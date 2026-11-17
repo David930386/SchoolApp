@@ -37,6 +37,7 @@ h1 {
 
 #description {
     margin: 0;
+    margin-bottom: 20px;
     font-size: 1.1rem;
     color: #020915;
     letter-spacing: 0.03em;
@@ -70,7 +71,7 @@ button {
 }
 h3 {
     margin-bottom: 10px;
-    font-size: 1.5rem;
+    font-size: 1.9rem;
     color: #1d4ed8;
 }
 
