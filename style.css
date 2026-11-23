@@ -88,6 +88,10 @@ h1 {
 
 #btno{
         background-color: #1d4ed8;
+        border-radius: 15px;
+        height: 50px;
+        color: #ffffff;
+        font-size: 1.2rem;
 }
 
 
